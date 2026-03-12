@@ -1,6 +1,6 @@
 ## Head-wise Adaptive Rotary Positional Encoding for Fine-Grained ImageGeneration [[Paper]](http://arxiv.org/abs/2212.09748)  
 
-![image/jpeg](pic/teaser.jpg)
+![image/jpeg](pic/teasers.jpg)
 
 > [**Head-wise Adaptive Rotary Positional Encoding for Fine-Grained ImageGeneration**](https://tianweiy.github.io/dmd2/),            
 > Jiaye Li, Baoyou Chen, Hui Li, Zilong Dong, Jingdong Wang, Siyu Zhu    
