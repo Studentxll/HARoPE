@@ -3,7 +3,7 @@ Generation <br><sub>Official PyTorch Implementation</sub>
 
 ### |[Paper](http://arxiv.org/abs/2212.09748) | 
 
-![DiT samples](pic/teasers_v3.pdf)
+![DiT samples](pic/teasers.jpg)
 
 ## Abstract
 
