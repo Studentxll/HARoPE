@@ -1,6 +1,4 @@
-## Head-wise Adaptive Rotary Positional Encoding for Fine-Grained ImageGeneration <br><sub>Official PyTorch Implementation</sub>
-
-### |[Paper](http://arxiv.org/abs/2212.09748) | 
+## Head-wise Adaptive Rotary Positional Encoding for Fine-Grained ImageGeneration [Paper](http://arxiv.org/abs/2212.09748)  
 
 ![image/jpeg](docs/teaser.jpg)
 
