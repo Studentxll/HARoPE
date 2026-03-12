@@ -34,7 +34,7 @@ bash sample/inference_HARoPE.sh
 ```
 ## Training 
 
-We provide a training script for HARoPE in [`train`](train.py). 
+We provide a training script for HARoPE in [`train/train.sh`](train.py). 
 
 ```bash
 bash train_HARoPE.sh
