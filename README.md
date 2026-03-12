@@ -1,9 +1,8 @@
-## Head-wise Adaptive Rotary Positional Encoding for Fine-Grained Image
-Generation <br><sub>Official PyTorch Implementation</sub>
+## Head-wise Adaptive Rotary Positional Encoding for Fine-Grained ImageGeneration <br><sub>Official PyTorch Implementation</sub>
 
 ### |[Paper](http://arxiv.org/abs/2212.09748) | 
 
-![DiT samples](pic/teasers.jpg)
+![image/jpeg](docs/teaser.jpg)
 
 ## Abstract
 
@@ -49,7 +48,7 @@ We've trained HARoPE based on DiT-B/2 models from scratch with the PyTorch train
 | RoPE        | 1M         | 9.81                 
 | 2D-RoPE        | 1M        | 9.49                      
 | STRING/Rethinking RoPE       | 1M        | 9.31
-|HARoPE        | 400K        | 1M   |**8.90**
+|HARoPE        | 1M          |**8.90**
 ## BibTeX
 
 ```bibtex
