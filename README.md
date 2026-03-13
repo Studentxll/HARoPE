@@ -1,10 +1,10 @@
-## Head-wise Adaptive Rotary Positional Encoding for Fine-Grained ImageGeneration [[Paper]](http://arxiv.org/abs/2212.09748)  
+## Head-wise Adaptive Rotary Positional Encoding for Fine-Grained ImageGeneration [[Paper]](https://arxiv.org/pdf/2510.10489v2)  
 
 ![image/jpeg](pic/teasers.jpg)
 
-> [**Head-wise Adaptive Rotary Positional Encoding for Fine-Grained ImageGeneration**](https://tianweiy.github.io/dmd2/),            
+> [**Head-wise Adaptive Rotary Positional Encoding for Fine-Grained ImageGeneration**](https://github.com/Studentxll/HARoPE),            
 > Jiaye Li, Baoyou Chen, Hui Li, Zilong Dong, Jingdong Wang, Siyu Zhu    
-> *CVPR 2026 ([arXiv 2405.14867](https://arxiv.org/abs/2405.14867))*  
+> *CVPR 2026 ([arXiv 2405.10489](https://arxiv.org/pdf/2510.10489v2))*  
 
 ## Abstract
 
@@ -34,7 +34,7 @@ bash sample/inference_HARoPE.sh
 ```
 ## Training 
 
-We provide a training script for HARoPE in [`train/train_HARoPE.sh`](train/train_HARoPE.sh)
+We provide a training script for HARoPE in [`train/train_HARoPE.sh`](train/train_HARoPE.sh). 
 
 ```bash
 bash train_HARoPE.sh
@@ -54,11 +54,11 @@ We've trained HARoPE based on DiT-B/2 models from scratch with the PyTorch train
 ## BibTeX
 
 ```bibtex
-@article{Peebles2022DiT,
-  title={Scalable Diffusion Models with Transformers},
-  author={William Peebles and Saining Xie},
-  year={2022},
-  journal={arXiv preprint arXiv:2212.09748},
+@article{li2025head,
+  title={Head-wise Adaptive Rotary Positional Encoding for Fine-Grained Image Generation},
+  author={Li, Jiaye and Chen, Baoyou and Li, Hui and Dong, Zilong and Wang, Jingdong and Zhu, Siyu},
+  journal={arXiv preprint arXiv:2510.10489},
+  year={2025}
 }
 ```
 
