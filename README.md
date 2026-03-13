@@ -46,7 +46,7 @@ We've trained HARoPE based on DiT-B/2 models from scratch with the PyTorch train
 
 | Method  | Train Steps | FID-50K | 
 |------------|-------------|----------------------------
-| APE（default）       | 1M        | 11.47                
+| APE(default)       | 1M        | 11.47                
 | RoPE        | 1M         | 9.81                 
 | 2D-RoPE        | 1M        | 9.49                      
 | STRING/Rethinking RoPE       | 1M        | 9.31
