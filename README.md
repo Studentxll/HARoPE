@@ -37,7 +37,7 @@ bash sample/inference_HARoPE.sh
 We provide a training script for HARoPE in [`train/train_HARoPE.sh`](train/train_HARoPE.sh). 
 
 ```bash
-bash train_HARoPE.sh
+bash train/train_HARoPE.sh
 ```
 
 ### Evaluation based on DiT
